@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EDSIMZ TIMER.exe" size="331704">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EDSIMZ TIMER.exe" size="332728">
       <assemblyIdentity name="EDSIMZ TIMER" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HPM/7Iv5EGMh3QRMqc5+Oq0jwy+1X0cfF5KcJpQAquU=</dsig:DigestValue>
+        <dsig:DigestValue>HJAdqbXz03Ues/Z9fieQqajWaw1KD0c5qz5pYm/enQY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -570,13 +570,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="EDSIMZ TIMER.exe.config" size="565">
+  <file name="EDSIMZ TIMER.exe.config" size="1263">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ThIFb2xv99BfTf2VdYautB/lY2d8V64vxDr/iqK8+XA=</dsig:DigestValue>
+      <dsig:DigestValue>yU6f7Xf5UWuKTFTN9rgxrnPYdkNR2KQRfTgBr61kv7I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="timer.ico" size="6959">
