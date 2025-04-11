@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EDSIMZ TIMER.exe" size="332728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EDSIMZ TIMER.exe" size="334776">
       <assemblyIdentity name="EDSIMZ TIMER" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CVbuQHP+RYuVtSsBWggXsMAGf3mdiu8h1B/POMFW+nk=</dsig:DigestValue>
+        <dsig:DigestValue>28IuIKYpdMN3buPQ9nbK/r9n8ZjX3C9a1hrgB4vQMsw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
